@@ -1,0 +1,8 @@
+PREDEF:
+
+CHAPS:
+  - {" パートのさいしょ": [ch01.re, ch02.re]}
+  - {"とあるパート ": [ch03.re, ch04.re]}
+
+POSTDEF:
+
